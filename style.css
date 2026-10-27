@@ -8,3 +8,5 @@
 .player.night input{background:#fdf9ee;color:#243c33}.player.night .secondary{border-color:#8c9a9b}.player.night .text{color:var(--ink)}.working button{pointer-events:none}
 
 .theme>span{font-family:Georgia,serif;font-size:30px;line-height:1}.pills button:hover{background:var(--soft)}
+
+@media(max-width:740px){input,textarea,select{font-size:16px}.gift-art .orbit{top:-27px}.micro{font-size:12px}.hero .micro{font-size:11px}}
