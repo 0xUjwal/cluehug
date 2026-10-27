@@ -2,6 +2,8 @@
 
 A little mystery. A lovely surprise.
 
+Live: https://cluehug.vercel.app/
+
 Create a message, link, photo, video or file reveal; wrap it in 1–6 riddles or personal questions; play the recipient preview; share a link or downloadable puzzle file. The creator needs no account or setup guide.
 
 ## Run
