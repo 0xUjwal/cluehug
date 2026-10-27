@@ -34,7 +34,7 @@ Names, first question and hint, theme and mode are visible in the URL fragment. 
 
 Fragments are not part of the ordinary HTTP request, but the browser, clipboard and messaging service may retain the full URL. The hosting service still receives normal page requests. External links/media are only rendered after solving and remain subject to their provider's privacy/access rules.
 
-Links over 24,000 characters fall back to a puzzle file. File attachments are limited to 8 MB; pictures are resized to at most 1,200 pixels on the longest side and converted to JPEG. Files must be opened through this website. Some chat apps truncate long links. Video URLs open on their provider, not in an embedded player; uploaded compatible video files play locally after solving. Sharing uses the device share sheet if available, otherwise copy.
+Links over 24,000 characters fall back to a puzzle file. File attachments are limited to 8 MB; pictures are resized to at most 1,200 pixels on the longest side and converted to JPEG. Files must be opened through this website. Some chat apps truncate long links. Recent browsers with Web Crypto and Compression Streams are required; old embedded browsers may not work. Video URLs open on their provider, not in an embedded player; uploaded compatible video files play locally after solving. Sharing uses the device share sheet if available, otherwise copy.
 
 ## Deployment
 
